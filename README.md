@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
