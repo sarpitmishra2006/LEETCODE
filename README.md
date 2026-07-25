@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0796-rotate-string) |
+| [2390-removing-stars-from-a-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0547-number-of-provinces) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
