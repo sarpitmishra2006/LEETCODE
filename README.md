@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0258-add-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -102,5 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0258-add-digits) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
