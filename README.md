@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0994-rotting-oranges) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
