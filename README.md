@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
