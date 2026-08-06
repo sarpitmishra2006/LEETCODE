@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1550-three-consecutive-odds](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
