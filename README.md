@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0258-add-digits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Number Theory
