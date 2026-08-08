@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
