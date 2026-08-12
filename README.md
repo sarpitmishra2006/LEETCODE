@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -184,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
