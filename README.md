@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Number Theory
