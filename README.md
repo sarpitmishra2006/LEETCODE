@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
