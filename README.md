@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
