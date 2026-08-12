@@ -193,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
