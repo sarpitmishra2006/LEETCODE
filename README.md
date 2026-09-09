@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
