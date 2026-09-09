@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1470-shuffle-the-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
