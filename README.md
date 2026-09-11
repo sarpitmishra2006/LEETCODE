@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0472-concatenated-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0472-concatenated-words) |
 | [0796-rotate-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1108-defanging-an-ip-address) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
