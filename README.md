@@ -193,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0061-rotate-list) |
+| [0203-remove-linked-list-elements](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0326-power-of-three) |
