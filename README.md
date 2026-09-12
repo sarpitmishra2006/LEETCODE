@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
