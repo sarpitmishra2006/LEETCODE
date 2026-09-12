@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
 | [0472-concatenated-words](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0472-concatenated-words) |
 | [0704-binary-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0472-concatenated-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
