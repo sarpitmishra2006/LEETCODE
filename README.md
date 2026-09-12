@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0472-concatenated-words) |
 | [0796-rotate-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sarpitmishra2006/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
