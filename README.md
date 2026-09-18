@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0268-missing-number) |
 | [0472-concatenated-words](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0472-concatenated-words) |
+| [0494-target-sum](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0472-concatenated-words](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0472-concatenated-words) |
+| [0494-target-sum](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -268,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sarpitmishra2006/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sarpitmishra2006/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
